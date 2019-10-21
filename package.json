@@ -1,0 +1,8 @@
+{
+  "name": "bootcamp2019GoBarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CaioXM01/Bootcamp2019-GoBarber.git",
+  "author": "CaioXM01 <caioxm01@gmail.com>",
+  "license": "MIT"
+}
