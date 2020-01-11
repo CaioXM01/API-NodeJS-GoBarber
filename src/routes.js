@@ -32,8 +32,8 @@ routes.delete('/appointments/:id', AppointmentController.delete);
 
 routes.get('/schedule', ScheduleController.index);
 
-routes.get('/Notifications', NotificationController.index);
-routes.put('/Notifications/:id', NotificationController.update);
+routes.get('/notifications', NotificationController.index);
+routes.put('/notifications/:id', NotificationController.update);
 
 routes.post('/files', upload.single('file'), FileController.store);
 
